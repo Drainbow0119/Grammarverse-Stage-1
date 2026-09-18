@@ -17,7 +17,7 @@ export const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
     <div className="relative w-full min-h-[640px] h-full flex flex-col items-center justify-center overflow-hidden bg-slate-950 text-white select-none">
       {/* Background Cover Image with Atmospheric Overlay */}
       <img
-        src="/src/assets/images/grammarverse_cover_1789694397070.jpg"
+        src="/images/grammarverse_cover_1789694397070.jpg"
         alt="Grammarverse universe banner"
         referrerPolicy="no-referrer"
         className="absolute inset-0 w-full h-full object-cover object-center opacity-40 filter brightness-90 contrast-110"

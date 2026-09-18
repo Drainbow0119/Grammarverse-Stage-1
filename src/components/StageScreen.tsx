@@ -161,7 +161,7 @@ export const StageScreen: React.FC<StageScreenProps> = ({
           
           {/* Illustrated Sick Girl Bedroom */}
           <img
-            src="/src/assets/images/sick_girl_bedroom_1789694368910.jpg"
+            src="/images/sick_girl_bedroom_1789694368910.jpg"
             alt="아픈 여자 아이가 침대에 누워 있는 방 배경"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center select-none pointer-events-none"

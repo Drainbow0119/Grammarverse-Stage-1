@@ -99,7 +99,7 @@ export const SuccessScreen: React.FC<SuccessScreenProps> = ({
               {/* Room Box with Healthy Girl Illustration */}
               <div className="relative w-full aspect-[16/9] max-h-[65vh] rounded-3xl overflow-hidden shadow-2xl border-2 border-emerald-500/50 bg-slate-900">
                 <img
-                  src="/src/assets/images/healthy_girl_bedroom_1789694385206.jpg"
+                  src="/images/healthy_girl_bedroom_1789694385206.jpg"
                   alt="건강해져서 기쁘게 일어선 소녀의 방 배경"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover object-center pointer-events-none"
