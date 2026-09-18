@@ -1,0 +1,6 @@
+{
+  "name": "Grammarverse",
+  "description": "중학생 영어 어순과 교과서 핵심 문법을 모험하듯 탐험하고 조합하는 교육 어드벤처 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
